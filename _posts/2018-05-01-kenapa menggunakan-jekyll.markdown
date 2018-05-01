@@ -22,14 +22,17 @@ sama yang namanya **Jekyll** ini.
 Berikut beberapa alasan kenapa saya juga senang nulis menggunakan *Jekyll* selain nulis di *Medium* :
 
 **1. Jekyll Cocok Untuk Deloper/Programmer**
+
 Yaps kebanyakan yang menggunakan jekyll sebagai media penulisanya adalah memang didominasi oleh kalangan Programmer/Developer karena mungkin mereka sudah familiar dengan penggunaan Github dan Markdown nya, jadi
 ketika menulis artikel pun serasa menyenangkan hehe.
 
 **2. Lebih Cepat**
+
 Iya cepat, karena sipatnya yang static pages membuat jekyll cepat karena tidak membutuhkan database
 sebagai media penyimpanannya, bagaimana menarik kan ?
 
 **3. Gratis dan Simple**
+
 Jekyll Totally Free kita tinggal meng-install nya di komputer kemudian push ke Github lalu menggunakan Github pages sebagai hostinganya dan akhirnya jadi dah, sederhana sekali bukan.
 
 *Catatan: Jika ingin menggunakan domain sendiri pun bisa tinggal beli domian dan sedikit pengaturan jadi dah hehe*
