@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kenapa Perlu Menocoba & Menggunakan Jekyll ?"
+title:  "Kenapa Perlu Mencoba & Menggunakan Jekyll ?"
 date:   2018-05-01 23:01:10 +0700
 categories: introduction
 ---
