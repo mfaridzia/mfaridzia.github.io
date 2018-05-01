@@ -6,15 +6,16 @@ categories: introduction
 ---
 ![hello world](/img/jekyll.png)
 
-Saya baru baru ini mencoba untuk menggunakan Jekyll untuk menulis yang mana sebelumnya 
-saya awalnya menggunakan Blogspot kemudian setelah merasa tidak cocok saya memutuskan 
-untuk menggunakan Wordpressm, setelah beberapa hari menggunakan wordpress saya tenyata
-tidak srek juga hmm, lalu setelah itu saya menemukan sebuah platform nulis yg sangat
+Saya baru baru ini mencoba untuk menggunakan Jekyll untuk menulis yang mana
+awalnya saya menggunakan Blogspot kemudian setelah merasa tidak cocok saya memutuskan 
+untuk menggunakan Wordpress, setelah beberapa hari menggunakan wordpress saya ternyata
+tidak srek juga hmmmm, lalu setelah itu saya menemukan sebuah platform nulis yg sangat
 keren menurut saya yaitu **Medium** ya medium, saya sangat senang menulis disana
-sudah banyak tulisan yang saya tulis disana sampai sekarang ? 
+sudah banyak tulisan yang saya tulis disana sampai sekarang
 
-*Terus lantas kenapa mau mencari yang baru lagi, kalo medium udah bagus ?*
-Hmmm pertanyaan yang, sebenernya saya tetap menulis di *medium* tapi karena kadang kadang
+**Terus lantas kenapa mau mencari yang baru lagi, kalo medium udah bagus ?**
+
+Hmmm pertanyaan yang bagus, sebenernya saya tetap menulis di *medium* tapi karena kadang kadang
 saya jenuh makanya saya memilih mencari tempat nulis yg baru dan akhirnya ketemu dah
 sama yang namanya **Jekyll** ini. 
 
