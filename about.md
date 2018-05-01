@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hallo semuanya kenalin nama gue *Muhammad Farid Zia*, seorang pemuda yang punya banyak mimpi
+gue itu antusias banget sama yang namanya teknologi terutama dalam bidang *pengembangan software*.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Gue berharap melalui blog ini bisa berbagi mengenai pengalaman dan hal hal yang gue tau
+dan berharap juga semoga yg gue tulis disini tuh bisa bermanfaat buat teman teman semua.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+#### Regards 
