@@ -21,7 +21,7 @@ sama yang namanya **Jekyll** ini.
 
 Berikut beberapa alasan kenapa saya juga senang nulis menggunakan *Jekyll* selain nulis di *Medium* :
 
-**1. Jekyll Cocok Untuk Deloper/Programmer**
+**1. Jekyll Cocok Untuk Programmer/Developer**
 
 Yaps kebanyakan yang menggunakan jekyll sebagai media penulisanya adalah memang didominasi oleh kalangan Programmer/Developer karena mungkin mereka sudah familiar dengan penggunaan Github dan Markdown nya, jadi
 ketika menulis artikel pun serasa menyenangkan hehe.
