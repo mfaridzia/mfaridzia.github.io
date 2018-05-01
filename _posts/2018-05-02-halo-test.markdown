@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Hallo Jekyll - Mulai tulisanmu disini"
+date:   2018-05-01 18:37:49 +0700
+categories: introduction
+---
+![hello world](/img/pexels-photo-968243.jpeg)
+
+Test aja ini bro
+
+#### ~ Mulai Tulisanmu Disini
