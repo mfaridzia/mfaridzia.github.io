@@ -35,7 +35,7 @@ sebagai media penyimpanannya, bagaimana menarik kan ?
 
 Jekyll Totally Free kita tinggal meng-install nya di komputer kemudian push ke Github lalu menggunakan Github pages sebagai hostinganya dan akhirnya jadi dah, sederhana sekali bukan.
 
-*Catatan: Jika ingin menggunakan domain sendiri pun bisa tinggal beli domian dan sedikit pengaturan jadi dah hehe*
+*Catatan: Jika ingin menggunakan domain sendiri pun bisa tinggal beli domain dan sedikit pengaturan jadi dah hehe*
 
 Ok mungkin itu saja yg bisa saya ceritakan ke teman teman semua, kenapa teman teman perlu mencoba menggunakan *Jekyll*
 untuk menulis walaupun hanya sekali hehehe, semoga bermanfaat, sekian.
