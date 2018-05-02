@@ -23,13 +23,13 @@ Dengan menulis kita sebenarnya mengikat ilmu yang kita punya agar nantinya kita 
 
 **Imam Asy Syafi’i rahimahullah berkata**
 
-Ilmu adalah buruan dan tulisan adalah ikatannya
+: Ilmu adalah buruan dan tulisan adalah ikatannya
 
-Ikatlah buruanmu dengan tali yang kuat
+: Ikatlah buruanmu dengan tali yang kuat
 
-Termasuk kebodohan kalau engkau memburu kijang
+: Termasuk kebodohan kalau engkau memburu kijang
 
-Setelah itu kamu tinggalkan terlepas begitu saja
+: Setelah itu kamu tinggalkan terlepas begitu saja
 
 #### 2. Berbagi pengetahuan dengan orang lain
 
