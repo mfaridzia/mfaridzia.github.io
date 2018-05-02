@@ -21,24 +21,24 @@ ide kita dalam bentuk tulisan ataupun belajar untuk merangkai kata kata yang ind
 
 Dengan menulis kita sebenarnya mengikat ilmu yang kita punya agar nantinya kita tidak mudah lupa dengan apa yang sudah kita pelajari, dimana dengan menuliskanya jika seandainya kita lupa maka kita bisa kembali merujuk kepada tulisan yang sudah kita tulis, bermanfaat sekali bukan.
 
-> **Imam Asy Syafi’i rahimahullah berkata**
+**Imam Asy Syafi’i rahimahullah berkata**
 
-> > Ilmu adalah buruan dan tulisan adalah ikatannya
+Ilmu adalah buruan dan tulisan adalah ikatannya
 
-> > Ikatlah buruanmu dengan tali yang kuat
+Ikatlah buruanmu dengan tali yang kuat
 
-> > Termasuk kebodohan kalau engkau memburu kijang
+Termasuk kebodohan kalau engkau memburu kijang
 
-> > Setelah itu kamu tinggalkan terlepas begitu saja
+Setelah itu kamu tinggalkan terlepas begitu saja
 
 #### 2. Berbagi pengetahuan dengan orang lain
 
 Menulis juga bisa kita jadikan sarana berbagi pengetahuan, pengalaman kepada orang lain agar manfaatnya juga bisa dirasakan oleh lebih banyak orang bukan cuma kita saja yang mendapat manfaatnya.
 
-> **Rasulullah Shallallahu'alaihi Wasallam bersabda:**
+**Rasulullah Shallallahu'alaihi Wasallam bersabda:**
 
->> "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia"
->> (HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289)
+> "Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia"
+> (HR. Ahmad, ath-Thabrani, ad-Daruqutni. Hadits ini dihasankan oleh al-Albani di dalam Shahihul Jami’ no:3289)
 
 #### 3. Latihan mengungkapkan isi hati
 
