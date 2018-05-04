@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hallo semuanya kenalin nama gue *Muhammad Farid Zia*, seorang pemuda yang punya banyak mimpi
-gue itu antusias banget sama yang namanya teknologi terutama dalam bidang *pengembangan software*.
+Hallo semuanya, kenalin saya *Muhammad Farid Zia*, seorang pemuda yang punya banyak mimpi,
+seorang yang sangat antusias sekali sama yang namanya Teknologi terutama dalam bidang *Pengembangan Software*.
 
-Gue berharap melalui blog ini bisa berbagi mengenai pengalaman dan hal hal yang gue tau
-dan berharap juga semoga yg gue tulis disini tuh bisa bermanfaat buat teman teman semua.
+Saya berharap melalui blog ini bisa berbagi mengenai pengalaman dan hal hal yang saya tau
+dan berharap juga semoga yg saya tulis disini tuh bisa bermanfaat buat teman teman semua.
 
 #### Regards 
 
