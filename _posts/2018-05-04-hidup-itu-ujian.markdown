@@ -7,11 +7,11 @@ categories: pengalaman
 
 ![Buku Tulis](/img/3326980_640.jpg)
 
-Hidup ini semuanya adalah ujian, kenapa ujian? ya karena semua yang kita lakukan di dunia ini akan kita pertanggung jawabkan kelak di depan Allah, jangan kita pikir semua yang kita lakukan di dunia ini tidak akan ditanya oleh Allah, setiap perbuatan baik maupun buruk yang kita lakukan di dunia ini walaupun sekecil apapun tetap akan dihisab kelak.
+Hidup ini semuanya adalah ujian, kenapa ujian? ya karena semua yang kita lakukan di dunia ini akan kita pertanggungjawabkan kelak di depan Allah, jangan kita pikir semua yang kita lakukan di dunia ini tidak akan ditanya oleh Allah, setiap perbuatan baik maupun buruk yang kita lakukan di dunia ini walaupun sekecil apapun tetap akan dihisab kelak.
 
-**Seperti firman Allah di dalam Al-Quran:**
+**Allah Ta'ala berfirman:**
 
-"Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya. Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrah pun, niscaya dia akan melihat (balasan)nya pula"
+*"Barangsiapa yang mengerjakan kebaikan seberat dzarrahpun, niscaya dia akan melihat (balasan)nya. Dan barangsiapa yang mengerjakan kejahatan sebesar dzarrah pun, niscaya dia akan melihat (balasan)nya pula"*
 **(QS. Az Zalzalah: 7-8)**
 
 Bukankah kita hidup di dunia ini hanya sementara saja? dan kelak entah kapan waktunya kita akan meninggalkan semua apa yang kita punya di dunia ini dan hanya membawa bekal dari amalan amalan yang pernah kita lakukan selama hidup di dunia entah itu amalan buruk maupun baik.
@@ -20,9 +20,9 @@ Kita seringkali enggan mengingat masalah akhirat kita dan lebih mementingkan uru
 
 Sungguh begitu baiknya Allah pada kita, namun kitapun seringkali tidak pernah bersyukur atas hal tersebut malah seringkali kita mengkingkari nikmat yang telah Allah berikan tesebut, Ampunilah hambamu yang yg lemah ini ya Allah.
 
-Seringakli Allah menegur kita melalui ujian ujian yang diberikan-Nya, tapi kita jarang sekali peka terhadap ujian yang datang tersebut dan kitapun jarang sekali merenungi sebab dari ujian tersebut.
+Seringakli Allah menegur kita melalui ujian ujian yang diberikan-Nya, tapi kita jarang sekali peka terhadap ujian yang datang tersebut dan kitapun jarang sekali merenungi sebab dari turunya ujian tersebut.
 
-Semoga kita semua diberikan Hidayah oleh Allah untuk bisa kembali kepada jalanya yang benar dan bisa senantiasa beribah dengan baik kepada-Nya. 
+Semoga kita semua diberikan hidayah oleh Allah untuk bisa kembali kepada jalanya yang benar dan bisa senantiasa beribadah dengan baik kepada-Nya. 
 
 Sekian, semoga tulisan singkat ini bisa bermanfaat untuk teman teman semua terutama untuk diri penulis sendiri.
 
