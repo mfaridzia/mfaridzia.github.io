@@ -8,7 +8,7 @@ categories: pengalaman
 ![Buku Tulis](/img/writing-book.jpg)
 
 Menulis itu merupakan hal yang sangat menyenangkan, kenapa menyenangkan ? ya karena melalui tulisan 
-kita bisa berbagai banyak hal entah itu mengenai pengalaman pengalaman yang kita punya selama di hidup dunia, berbagi seputar pengetahuan yang kita miliki ke orang banyak ataupun hanya sekedar curhatan singkat dan masih banyak lagi tentunya hal hal yang bisa kita sampaikan melalui tulisan.
+kita bisa berbagi banyak hal entah itu mengenai pengalaman pengalaman yang kita punya selama di hidup dunia, berbagi seputar pengetahuan yang kita miliki ke orang banyak ataupun hanya sekedar curhatan singkat dan masih banyak lagi tentunya hal hal yang bisa kita sampaikan melalui tulisan.
 
 Mungkin untuk sebagian orang menulis terasa menjenuhkan atau membosankan, padahal menulis itu tidak seperti
 itu, menulis itu sangat menarik dimana dengan menulis kita bisa memanfaatkan waktu waktu luang yang kita
