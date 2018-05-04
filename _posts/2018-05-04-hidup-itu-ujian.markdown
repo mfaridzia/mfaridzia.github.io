@@ -20,7 +20,7 @@ Kita seringkali enggan mengingat masalah akhirat kita dan lebih mementingkan uru
 
 Sungguh begitu baiknya Allah pada kita, namun kitapun seringkali tidak pernah bersyukur atas hal tersebut malah seringkali kita mengkingkari nikmat yang telah Allah berikan tesebut, Ampunilah hambamu yang yg lemah ini ya Allah.
 
-Seringakli Allah menegur kita melalui ujian ujian yang diberikan-Nya, tapi kita jarang sekali peka terhadap ujian yang datang tersebut dan kitapun jarang sekali merenungi sebab dari turunya ujian tersebut.
+Seringakli Allah menegur kita melalui ujian ujian yang diberikan-Nya, tapi kita jarang sekali peka terhadap ujian yang datang tersebut dan kitapun jarang sekali merenungi sebab dari turun nya ujian tersebut.
 
 Semoga kita semua diberikan hidayah oleh Allah untuk bisa kembali kepada jalanya yang benar dan bisa senantiasa beribadah dengan baik kepada-Nya. 
 
