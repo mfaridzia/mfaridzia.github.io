@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Kenapa Perlu Mencoba & Menggunakan Jekyll ?"
-date:   2018-05-01 23:01:10 +0700
-categories: introduction
+author: "muhfaridzia"
 ---
 ![hello world](/img/jekyll.png)
 

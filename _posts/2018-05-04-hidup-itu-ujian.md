@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Hidup ini semua ujian"
-date:   2018-05-04 15:05:00 +0700
-categories: pengalaman
+author: "muhfaridzia"
 ---
 
 ![Buku Tulis](/img/3326980_640.jpg)

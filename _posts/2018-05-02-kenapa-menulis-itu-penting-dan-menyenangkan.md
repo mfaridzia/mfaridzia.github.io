@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Kenapa menulis itu menyenangkan dan penting ?"
-date:   2018-05-02 08:40:00 +0700
-categories: pengalaman
+author: "muhfaridzia"
 ---
 
 ![Buku Tulis](/img/writing-book.jpg)
