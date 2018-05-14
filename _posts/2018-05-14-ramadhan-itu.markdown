@@ -6,7 +6,7 @@ author: "muhfaridzia"
 
 ![Mosque Photo](/img/pexels-photo-87500.jpeg)
 
-Jika kita ditinggalkan oleh orang yg kita cinta dalm waktu yang lama pasti kita akan merasa sedih dan merindukannya, sama seperti bulan ramadhan dimana durasinya hanya satu bulan saja dimana pada bulan tersebut banyak sekali keutamaanya dimana jika kita beribadah pada bulan tersebut pahala kita dilipat gandakan oleh Allah.
+Jika kita ditinggalkan oleh orang yg kita cinta dalam waktu yang lama pasti kita akan merasa sedih dan merindukannya, sama seperti bulan ramadhan dimana durasinya hanya satu bulan saja dimana pada bulan tersebut banyak sekali keutamaanya dimana jika kita beribadah pada bulan tersebut pahala kita dilipat gandakan oleh Allah.
 
 *Bulan Ramadhan itu mampu mencas iman kita, yang mungkin di bulan sebelum-sebelumnya kita banyak lalai dari ibadah kepada Allah*
 
