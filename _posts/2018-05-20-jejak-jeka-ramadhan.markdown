@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jejak-jekak Ramadhan"
+title:  "Jejak-jejak Ramadhan"
 author: "muhfaridzia"
 ---
 
