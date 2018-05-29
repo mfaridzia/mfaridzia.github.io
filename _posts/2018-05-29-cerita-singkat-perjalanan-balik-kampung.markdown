@@ -22,10 +22,10 @@ Oh iya btw saya ke bandara dari kosan sekitaran jam 9 sampai di bandara kurang l
 
 Bosen juga ya mantengin jam melulu nih wkwk, oh iya ini dibawah ada beberapa foto yang diambil secara asal-asalan :v
 
-<img src="img/photo_2018-05-29_13-12-48.jpg"> <br/>
+<img src="/img/photo_2018-05-29_13-12-48.jpg"> <br/>
 
-<img src="img/photo_2018-05-29_13-12-54.jpg"> <br/>
+<img src="/img/photo_2018-05-29_13-12-54.jpg"> <br/>
 
-<img src="img/photo_2018-05-29_13-12-56.jpg"> 
+<img src="/img/photo_2018-05-29_13-12-56.jpg"> 
 
 Udah segitu dulu aja lah ya ceritanya heheh, nanti nanti lagi dilanjutin.
