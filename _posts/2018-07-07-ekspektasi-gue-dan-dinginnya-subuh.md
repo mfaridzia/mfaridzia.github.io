@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ekspektasi gue dan Dinginnya Subuh"
+title:  "Ekspektasi gue dikala Dinginnya Subuh"
 author: "muhfaridzia"
 ---
 
