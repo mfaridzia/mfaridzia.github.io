@@ -6,7 +6,7 @@ author: "muhfaridzia"
 
 ![masa-depan](/img/pexels-photo.jpg)
 
-Apa yang ada dalam benak dan pikiranmu ketika mendengar kalimat seperti *masa depan*, *masa yang akan datang* ?
+Apa yang ada dalam benak dan pikiranmu ketika mendengar kata *'masa depan'*, *'masa yang akan datang'* ?
 
 Kalo aku sendiri sih banyak banget yak, mulai dari gelisah mikiran gimana ya kira-kira nasibku nanti, kira-kira jodohku siapa ya nanti, kira-kira aku bakalan kerja dimana ya nanti, dan berbagai macam kira-kira lainya hehe.
 
