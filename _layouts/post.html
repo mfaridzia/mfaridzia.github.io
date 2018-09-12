@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Ditulis oleh</span>
+    <span style="font-style: normal;">Ditulis oleh</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
@@ -12,8 +12,8 @@ layout: default
     {% endif %}
 
     {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+     
+      <span style="font-style: normal;">pada&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
     {% endif %}
   </div>
 
