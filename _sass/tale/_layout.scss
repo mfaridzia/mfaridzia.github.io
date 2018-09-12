@@ -10,11 +10,11 @@ footer,
   display: block;
   margin: 0 auto;
   max-width: 800px;
-  width: 80%;
+  width: 55%;
 }
 
 .nav {
-  box-shadow: 0 2px 2px -2px $shadow-color;
+  margin-top: 45px;
   overflow: auto;
 
   &-container {
@@ -29,6 +29,7 @@ footer,
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    font-weight: normal;
 
     &:hover,
     &:focus {
