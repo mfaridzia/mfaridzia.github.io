@@ -9,7 +9,7 @@ layout: default
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <time datetime="{{ post.date }}" class="catalogue-time">By {{ site.author.nickname }} - {{ post.date | date: "%B %d, %Y" }}</time>
 
         <p class="catalogue-text">
           {{ post.content | strip_html | truncatewords: 50 }}
