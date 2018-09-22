@@ -4,7 +4,7 @@ title:  "Hidup ini semua ujian"
 author: "muhfaridzia"
 ---
 
-![Buku Tulis](/img/3326980_640.jpg)
+![Buku Tulis](/img/problem.jpeg)
 
 Hidup ini semuanya adalah ujian, kenapa ujian? ya karena semua yang kita lakukan di dunia ini akan kita pertanggungjawabkan kelak di depan Allah, jangan kita pikir semua yang kita lakukan di dunia ini tidak akan ditanya oleh Allah, setiap perbuatan baik maupun buruk yang kita lakukan di dunia ini walaupun sekecil apapun tetap akan dihisab kelak.
 
