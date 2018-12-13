@@ -10,8 +10,8 @@ Hallo, kali ini saya mau nulis singkat aja tentang masalah **cinta** atau mungki
 
 Pernah mikir nanti siapa jodoh kita nggak? pernah mikir gimana dan dimana ketemu sama dia? kalo iya berarti kita sama hehe, tapi ada satu lagi sih yang masih ganjel dibenak dan pikiran ini, apa mungkin kalo nggak pernah ketemu bisa jodoh? dengan kata lain cuma ketemu beberapa kali aja.
 
-Kalo menurut saya sih ya bisa-bisa aja sih, nggak ada hal yang mustahil jika Allah berkehendak, bisa aja kan Allah mempertemukan kita sama jodoh kita dengan cara seperti itu, cuma ketemu sekali misalnya terus langsung jatuh hati, dan nggak berselang lama misalnya cuma satu dua bulan memberanikan diri untuk melamar ke ortu si wanitanya, why not kan?
+Kalo menurut saya sih ya bisa-bisa aja, nggak ada hal yang mustahil jika Allah berkehendak, bisa aja kan Allah mempertemukan kita sama dia dengan cara seperti itu, cuma ketemu sekali misalnya terus langsung jatuh hati, dan nggak berselang lama misalnya cuma satu atau dua bulan memberanikan diri buat melamar si doi ke orang tuanya langsung, why not kan?
 
-Ya iya atuh, ngapain basa-basi pacaran sana sini, pacaran berapa tahun akhirnya kandas juga kan nyesek ya, daripada gitu mending lewat jalan yang halal aja, kalo kita emang suka sama si **doi** nya ya langsung aja ke tu de poin taaruf dan kalo sama-sama cocok ya ngk perlu waktu lama langsung khitbah, lamar dan nikah aja.
+Ya iya atuh, ngapain basa-basi pacaran sana sini, pacaran beberapa tahun akhirnya kandas juga, daripada gitu mending lewat jalan yang halal aja, kalo kita emang suka atau tertarik sama si **doi** nya ya langsung aja beranikan diri buat Ta'aruf, terus kalo emang setelah itu dirasa cocok atau sama-sama cocok dengan akhlak, kepribadian dan hal lainnya ya silahkeun lanjut khitbah dan nikah.
 
-Hmm karena saya dah ngantuk, dan jam dah menunjukan jam 02:00  jadi mungkin itu aja yg saya mau tulis, sekian dan wasalam....
+Karena udah jam 02:33 tengah malam dan saya dah ngantuk, jadi itu aja dulu yang bisa saya tulis, sekian dan wasalam.....
