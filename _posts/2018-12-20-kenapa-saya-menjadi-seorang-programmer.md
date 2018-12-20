@@ -14,9 +14,9 @@ Udah segitu aja yak kali intermezzonya, langsung aja ke pembahasan utama kita ke
 
 - Suka Belajar Hal Baru
 
-Nah alasan pertama ini adalah tentang "I love learning", yah bener suka belajar hal-hal baru, jujur kalo kita emang enggak suka belajar atau nggak suka terus terusan belajar hal baru kecil kemungkinan kita bisa survive di dunia Teknologi yang boleh dibilang perkembangannya sangat ini. 
+Nah alasan pertama ini adalah tentang "I love learning", jujur kalo kita emang enggak suka belajar atau nggak suka terus terusan di push untuk belajar hal baru, kecil kemungkinan kita bisa survive di dunia teknologi yang boleh dibilang perkembangannya sangat cepat berubah ini. 
 
-Tiap tahun, tiap bulan ada aja library/framework/tools baru yang bermunculan yang harus dipelajari entah itu untuk kebutuhan penelitian untuk project selanjutnya atau bahkan untuk pekerjaan sekarang atau entah cuma buat hobby aja, yah nggak heran sih programmer emang harus siap menguras otaknya.
+Tiap tahun, tiap bulan ada aja library/framework/tools baru yang bermunculan yang butuh dipelajari entah itu untuk kebutuhan penelitian project selanjutnya atau bahkan untuk pekerjaan yang sekarang, yah nggak heran sih programmer dituntut untuk cepat belajar hehe.
 
 - Suka Dengan Tantangan
 
@@ -28,9 +28,9 @@ Jadi jika teman-teman tertarik menjadi seorang programmer yg handal ya tentu har
 
 - Suka Sharing atau Berbagi Dengan Orang Lain
 
-Eits jangan salah lho ya, programmer itu walaupun kelihatan cupu(mungkin sih ini), introvert tapi di dalam lubuk hatinya sebenernya mereka suka berbagi dengan orang lain, tentu dengan cara mereka sendiri sendiri ya. 
+Eits jangan salah lho ya, programmer itu walaupun kelihatan agak cupu(mungkin sih), introvert tapi di dalam lubuk hatinya sebenernya mereka suka berbagi dengan orang lain, tentu dengan cara mereka sendiri sendiri ya. 
 
-Ada yang berbagi melalui tulisan atau artikel, ada yg aktif membantu di forum-forum grup online,ada yang berbagi melalui video pembelajaran atau podcasts, atau bahkan secara langsung menjadi pembicara diacara meetup komunitas, ini tentunya merupakan hal yang positif ya selain memberikan manfaat untuk orang lain juga memberikan manfaat untuk diri sendiri.
+Ada yang berbagi melalui tulisan atau artikel, ada yg aktif membantu di forum-forum grup online, ada yang berbagi melalui video pembelajaran atau podcasts, atau bahkan secara langsung menjadi pembicara diacara meetup komunitas, ini tentunya merupakan hal yang positif ya selain memberikan manfaat untuk orang lain juga memberikan manfaat untuk diri sendiri.
 
 Nah itu beberapa alasan singkat kenapa menjadi seorang programmer, gimana ? tertarik jadi programmer ? atau tertarik punya pasangan seoarang programmer(XD canda aja ini hehe)
 
