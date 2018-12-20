@@ -32,6 +32,6 @@ Eits jangan salah lho ya, programmer itu walaupun kelihatan cupu(mungkin sih ini
 
 Ada yang berbagi melalui tulisan atau artikel, ada yg aktif membantu di forum-forum grup online,ada yang berbagi melalui video pembelajaran atau podcasts, atau bahkan secara langsung menjadi pembicara diacara meetup komunitas, ini tentunya merupakan hal yang positif ya selain memberikan manfaat untuk orang lain juga memberikan manfaat untuk diri sendiri.
 
-Nah itu beberapa alasan singkat kenapa harus jadi seorang programmer, gimana ? tertarik jadi programmer ? atau tertarik punya pasangan seoarang programmer(XD canda aja ini hehe)
+Nah itu beberapa alasan singkat kenapa menjadi seorang programmer, gimana ? tertarik jadi programmer ? atau tertarik punya pasangan seoarang programmer(XD canda aja ini hehe)
 
 Semoga coretan singkat kali ini bisa bermanfaat ya untuk teman-teman semua, sekian dan wasalam.....
