@@ -4,7 +4,7 @@ title:  "Apply What You Learn"
 author: "muhfaridzia"
 ---
 
-Setelah kita belajar sesuatu hal, langkah selanjutnya yang bisa kita lakukan adalah menerapkan apa yang sudah dipelajari tersebut ke praktek nyata, ini merupakan cara terbaik untuk melatih pemahaman kita setelah sebelumnya sudah mempelajari teori-teori menjenuhkan dibelakangnya.
+Setelah kita belajar sesuatu langkah selanjutnya yang bisa dilakukan adalah menerapkan apa yang sudah kita pelajari tersebut ke praktek nyata, ini merupakan cara terbaik untuk melatih pemahaman kita setelah sebelumnya sudah mempelajari teori-teori menjenuhkan dibelakangnya.
 
 Hanya mempelajari saja tanpa menerapkannya, itu sama saja seperti kita belajar cara sholat yang benar tapi kita tidak pernah mengerjakannya, bukankah itu menjadi tidak berguna ? 
 
