@@ -8,7 +8,7 @@ Kemalasan bisa membunuh produktivitas jika dibiarkan begitu saja dan tidak berus
 
 Kita semua pasti nggak mau produktivitas kita terganggu gara-gara rasa malas ini kan ? kalo iya mari sama-sama kita berusaha untuk melawan rasa kemalasan ini, jangan pernah ikuti rasa tersebut, kalo ada perasaan kita sedang terkena penyakit kemalasan ini, segera kita lawan dan jangan dituruti.
 
-Misalnya nih kalo kita mau ngerjain *sholat* tapi rasa malas kita juga datang, percaya deh kalo diikuti tuh rasa malas pasti nanti malah ngak jadi *sholat*, why ? ya itu karena dirimu sudah dikuasi sama rasa malasmu, yang akibatnya kamu jadi malas untuk melakukan kewajibanmu. 
+Misalnya nih kalo kita mau ngerjain *sholat* tapi rasa malas kita juga datang, percaya deh kalo diikuti tuh rasa malas pasti nanti malah nggak jadi *sholat*, why ? ya itu karena dirimu sudah dikuasai sama rasa malasmu, yang akibatnya kamu jadi malas untuk melakukan kewajibanmu. 
 
 Jadi untuk ngelawan rasa malas ini ya mau nggak mau caranya adalah dengan berusaha untuk tidak mengikuti rasa malas itu dan segeralah melakukan pekerjaanmu. Dengan begitu InsyaAllah sedikit demi sedikit rasa malasmu akan hilang.
 
