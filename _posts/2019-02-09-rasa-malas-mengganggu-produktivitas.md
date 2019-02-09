@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rasa Malas Menggangu Produktivitas"
+title:  "Rasa Malas Mengganggu Produktivitas"
 author: "muhfaridzia"
 ---
 
